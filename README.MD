@@ -43,8 +43,7 @@ C'est une représentation schématique des données, facilitant la compréhensio
 
 
 ## Modèle Logique de Données (MLD) 
-
-![Alt text](conception/mld.png) 
+![Alt text](conception/mld.png)
 
 ## Script de migration (structure de la base de données) 
 
