@@ -45,8 +45,10 @@ C'est une représentation schématique des données, facilitant la compréhensio
 ## Modèle Logique de Données (MLD) 
 ![Alt text](conception/mld.png)
 
+## Modèle physique de Données (MPD)
+![Alt text](conception/mpd.png) 
 ## Script de migration (structure de la base de données) 
-
+ 
 
 ## script de seeding pour les agences 
 
